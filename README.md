@@ -19,6 +19,8 @@
 
 ## 📊 GitHub Activity 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/mattmahdieh/talent-plan/pull/1) in [mattmahdieh/talent-plan](https://github.com/mattmahdieh/talent-plan)
+2. 💪 Opened PR [#1](https://github.com/mattmahdieh/talent-plan/pull/1) in [mattmahdieh/talent-plan](https://github.com/mattmahdieh/talent-plan)
 <!--END_SECTION:activity-->
 
 ## 📊GitHub Stats :
