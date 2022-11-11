@@ -1,5 +1,4 @@
-# 💫About Me :
-## Hey I'm Matt 👋,  
+# Hey I'm Matt 👋,  
 <h3 align="left">Software Engineer ✨ Cloud Native Enthusiast ✨ Software Architect ✨ Book Addict ✨</h3>
 
 - 🔭 I'm the founder of [Onqlave](https://onqlave.com)
