@@ -2,7 +2,6 @@
 <h3 align="left">Software Engineer ✨ Cloud Native Enthusiast ✨ Software Architect ✨ Book Addict ✨</h3>
 
 - 🔭 I'm the founder of [Onqlave](https://onqlave.com)
-- 👯 I’m a maintainer of [Cluster API Provider AWS](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 - 💬 I'm reading [We Have Root](https://www.amazon.com/We-Have-Root-Schneier-Security/dp/1119643015)
 - 📫 Socials [![Twitter Badge](https://img.shields.io/badge/-@Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=mattmahdieh "Follow on Twitter") [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mmahdieh "Follow on LinkedIn")
 - 👥 How to reach me? [Email me](matt@onqlave.com)
