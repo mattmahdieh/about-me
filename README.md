@@ -19,8 +19,8 @@
 
 ## 📊 GitHub Activity 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/mattmahdieh/talent-plan/pull/1) in [mattmahdieh/talent-plan](https://github.com/mattmahdieh/talent-plan)
-2. 💪 Opened PR [#1](https://github.com/mattmahdieh/talent-plan/pull/1) in [mattmahdieh/talent-plan](https://github.com/mattmahdieh/talent-plan)
+1. 🎉 Merged PR [#2](https://github.com/onqlavelabs/vmo-go-devops-challenge/pull/2) in [onqlavelabs/vmo-go-devops-challenge](https://github.com/onqlavelabs/vmo-go-devops-challenge)
+2. 🎉 Merged PR [#1](https://github.com/onqlavelabs/vmo-go-devops-challenge/pull/1) in [onqlavelabs/vmo-go-devops-challenge](https://github.com/onqlavelabs/vmo-go-devops-challenge)
 <!--END_SECTION:activity-->
 
 ## 📊GitHub Stats :
